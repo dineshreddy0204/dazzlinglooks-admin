@@ -1,0 +1,6 @@
+{
+  "name": "Dazzlinglooks.in — Admin Dashboard",
+  "description": "Enterprise e-commerce administration dashboard for Dazzlinglooks.in beauty and skincare store with API integration contracts, inventory, FEFO batch tracking, discount engine, and courier tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
